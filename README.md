@@ -18,8 +18,6 @@ Sou desenvolvedor de software do Brasil, apaixonado por programação, filmes e 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
-## 🛠️ Projetos em Destaque
-
 ## 💬 Vamos Conversar
 
 Se tiver interesse em colaborar ou apenas quiser bater um papo sobre desenvolvimento de software, fique à vontade para me contatar! 
